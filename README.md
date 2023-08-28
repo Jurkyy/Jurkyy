@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Just having fun coding up some silly ideas.
 <!--
 **Jurkyy/Jurkyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
